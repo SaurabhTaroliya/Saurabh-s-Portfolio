@@ -1,0 +1,27 @@
+[
+  {
+    "key": 1,
+    "title": "Nebula Ai",
+    "imageSrc": "src/assets/project/Nebula Ai.jpg",
+    "description": "This is a project made with React js for frontend and Dotnet for backend and MongoDB for database.",
+    "demo": "https://github.com/SaurabhTaroliya/Nubula?tab=readme-ov-file#demo-video",
+    "source": "https://github.com/SaurabhTaroliya/Nubula"
+  },
+  {
+    "key": 2,
+    "title": "Electronic Application",
+    "imageSrc": "src/assets/project/EApp.jpg",
+    "description": "This is a project made with Angular for frontend and Dotnet for backend and MongoDB for database.",
+    "demo": "https://github.com/SaurabhTaroliya/EApp",
+    "source": "https://github.com/SaurabhTaroliya/EApp"
+  },
+  {
+    "key": 3,
+    "title": "Currency Converter",
+    "imageSrc": "src/assets/project/currency_converter.png",
+    "description": "This is a small frontend project based on currency converter application made with HTML, css, JavaScript.",
+    "demo": "https://convertbot.netlify.app/",
+    "source": "https://github.com/SaurabhTaroliya/Currency-Converter"
+  }
+]
+

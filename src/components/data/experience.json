@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Full stack web developer",
+    "organisation": "Cognizant",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "location": "Pune, India",
+    "experiences": [
+      "Worked as a fullstack developer on client's website",
+      "Worked with EY team"
+    ],
+    "imageSrc": "company/cognizant.png"
+  },
+  {
+    "id": 2,
+    "role": "Full stack web developer - Intern",
+    "organisation": "Cognizant",
+    "startDate": "Feb, 2022",
+    "endDate": "Aug, 2022",
+    "location": "Work from home, India",
+    "experiences": [
+      "Learned frontend and backend Technology",
+      "C#, Angular, MongoDb, Sql, DSA, etc."
+    ],
+    "imageSrc": "company/cognizant.png"
+  },
+  {
+    "id": 3,
+    "role": "Teaching Assistant - Intern",
+    "organisation": "CodingNinjas",
+    "startDate": "Nov, 2023",
+    "endDate": "Mar, 2024",
+    "location": "Work from home, India",
+    "experiences": [
+      "Mentoring Student of CodingNinjas Institute",
+      "Helped to resolve their doubt of Python with DSA"
+    ],
+    "imageSrc": "company/codingNinjas.jpg"
+  }
+]
